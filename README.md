@@ -8,17 +8,15 @@ Designed for action figure prototyping and 3D printing.
 
 ## Installation
 1. Open **Edit > Preferences > Add-ons**  
-2. Click **Install...** and select `ball_joint_generator.py` or `.zip`  
+2. Click **Install...** and select `add_socketjoint_plus4.py` or `.zip`  
 3. Enable **Ball Joint Generator**  
 
 ---
 
 ## Usage
 1. Open 3D View  
-2. Press **N** to show sidebar  
-3. Select **Ball Joint** tab  
-4. Click **Add Ball Joint**  
-5. Ball and socket mesh will be created  
+2. select target object and menu add mesh Ball & socket joint  
+3. Ball and socket mesh will be created  
 
 ---
 
